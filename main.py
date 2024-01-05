@@ -6,4 +6,6 @@ API_HASH = ""
 BOT_TOKEN =""
 
 Animelist = Client(
-    name
+    name="Aniume-bot",
+    api_id=API_ID,
+    
